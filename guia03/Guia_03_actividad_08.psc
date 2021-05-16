@@ -56,7 +56,7 @@ Algoritmo Guia_03_8
 		
 	totalPersonas = totalMujeres + totalVarones	
 	//Salida
-	Escribir "------------------------", totalPersonas,"-------------------------------"	
+	Escribir "-----------------INFORMES----------------------------"	
 	Escribir "Cantidad de Personas censadas: ",totalPersonas
 	Escribir "Cantidad de Personas masculinas: ",totalVarones
 	Escribir "Cantidad de Personas femeninas: ",totalMujeres
