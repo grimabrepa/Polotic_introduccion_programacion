@@ -7,9 +7,8 @@ Algoritmo Guia_04_4
 	
 	
 	//Asignacion de variables (Entrada)
-	cantidadEdades = 20
+	cantidadEdades = 4
 	Dimension vec(cantidadEdades)
-	personaMasJoven = 999
 	promedio = 0
 	sumaTotal = 0
 	
@@ -26,7 +25,8 @@ Algoritmo Guia_04_4
 	
 	
 	//Persona mas joven
-	Para i =1 Hasta cantidadEdades Con Paso 1 Hacer
+	personaMasJoven = vec(1)
+	Para i = 2 Hasta cantidadEdades Con Paso 1 Hacer
 		Si personaMasJoven > vec(i) Entonces
 			personaMasJoven = vec(i)
 		Fin Si

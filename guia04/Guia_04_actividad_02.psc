@@ -3,7 +3,7 @@ Algoritmo Guia_04_2
 	//cantidad de desaprobados (Notas menores a 6).
 	
 	//Definicion de variables
-	Definir cantidadNotas, vec, i, aprobados, desaprobados  Como Entero
+	Definir cantidadNotas, vec, i, aprobados  Como Entero
 	
 	
 	//Asignacion de variables (Entrada)
