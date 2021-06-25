@@ -7,7 +7,7 @@ Algoritmo Guia_04_4
 	
 	
 	//Asignacion de variables (Entrada)
-	cantidadEdades = 4
+	cantidadEdades = 20
 	Dimension vec(cantidadEdades)
 	promedio = 0
 	sumaTotal = 0
