@@ -3,7 +3,7 @@ Algoritmo Ordenamiento_burbuja
 	tamanio = 5
 	Dimension vector(tamanio)
 	
-	// Carga del vector con valorea aleatorios hasta del 1 al 100
+	// Carga del vector con valorea aleatorios hasta del 1 al 1000
 	Para i=1 Hasta tamanio Con Paso 1 Hacer
 		vector(i) =azar(100)+1
 	Fin Para
